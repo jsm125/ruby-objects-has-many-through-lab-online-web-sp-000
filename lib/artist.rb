@@ -1,4 +1,4 @@
-class Artist 
+Assoclass Artist 
   
   attr_accessor :name
   
